@@ -7,7 +7,6 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 - [External Documents](#external-documents)
 - [Milestones](#milestones)
 - [Projects](#projects)
-- [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -38,32 +37,6 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 - [Linux Assignment #1](https://github.com/bromso/school-amazon-aws/milestone/1)
 - [Linux Assignment #2](https://github.com/bromso/school-amazon-aws/milestone/5)
 - [Linux Assignment #3](https://github.com/bromso/school-amazon-aws/milestone/6)
-
-## Quick start
-
-### Download
-
-Navigate the a directory on your computer were you are working on sites and run this command:
-
-```shell
-git clone https://github.com/bromso/school-amazon-aws.git
-```
-
-### Install packages
-
-Navigate the site’s directory and run this command.
-
-```shell
-yarn
-```
-
-### Start developing
-
-Navigate the site’s directory and start it up. Will be located on url: [http://localhost:3000](http://localhost:3000)
-
-```shell
-yarn start
-```
 
 ## Status
 
