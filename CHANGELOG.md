@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/bromso/school-amazon-aws/compare/v1.1.0...v1.2.0) (2021-01-30)
+
+
+### Features
+
+* add commitizen ([993332c](https://github.com/bromso/school-amazon-aws/commit/993332ca34786f1371e6f591bdd084fa388b2b29))
+
 # [1.1.0](https://github.com/bromso/school-amazon-aws/compare/v1.0.0...v1.1.0) (2021-01-30)
 
 
