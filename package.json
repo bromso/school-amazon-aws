@@ -1,22 +1,22 @@
 {
-"name": "school-amazon-aws",
+  "name": "school-amazon-aws",
   "private": false,
   "description": "All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus",
   "version": "1.0.0",
   "author": "Jonas Bröms <jonasbroms@icloud.com> (http://jonasbroms.com/)",
-	"license": "MIT",
-	"homepage": "https://github.com/bromso/school-amazon-aws#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/bromso/school-amazon-aws#readme",
   "bugs": {
     "url": "https://github.com/bromso/school-amazon-aws/issues"
-	},
-	"repository": {
+  },
+  "repository": {
     "type": "git",
     "url": "https://github.com/bromso/school-amazon-aws"
-	},
-	"directories": {
+  },
+  "directories": {
     "doc": "docs"
   },
-	"scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
 	},
 	"devDependencies": {
@@ -28,6 +28,12 @@
     "@semantic-release/release-notes-generator": "^9.0.1"
   },
   "keywords": [
-    "linux", "ubuntu", "bash", "aws", "virtualbox", "amazon", "scripts"
+    "linux",
+    "ubuntu",
+    "bash",
+    "aws",
+    "virtualbox",
+    "amazon",
+    "scripts"
   ]
 }
