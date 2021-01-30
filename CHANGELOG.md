@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/bromso/school-amazon-aws/compare/v1.6.0...v1.7.0) (2021-01-30)
+
+
+### Features
+
+* add issue template feature request ([b3d1222](https://github.com/bromso/school-amazon-aws/commit/b3d1222250dbe0f3964e1105b0d9f84f90468e5a))
+
 # [1.6.0](https://github.com/bromso/school-amazon-aws/compare/v1.5.0...v1.6.0) (2021-01-30)
 
 
