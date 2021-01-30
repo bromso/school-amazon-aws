@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bromso/school-amazon-aws/compare/v1.0.0...v1.1.0) (2021-01-30)
+
+
+### Features
+
+* add commitlint ([b7a9cee](https://github.com/bromso/school-amazon-aws/commit/b7a9cee6810a2904ff6dc25c515d0f398cdfcff7))
+
 # 1.0.0 (2021-01-30)
 
 
