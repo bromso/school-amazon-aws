@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/bromso/school-amazon-aws/compare/v1.2.0...v1.3.0) (2021-01-30)
+
+
+### Features
+
+* add .editorconfig ([9772738](https://github.com/bromso/school-amazon-aws/commit/97727381d3ca1bb20afbe96884d38e283d67b541))
+* add husky ([1d6c0d9](https://github.com/bromso/school-amazon-aws/commit/1d6c0d96a642fe8dba1fcb8cb9797dec15b3cedf))
+
 # [1.2.0](https://github.com/bromso/school-amazon-aws/compare/v1.1.0...v1.2.0) (2021-01-30)
 
 
