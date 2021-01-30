@@ -2,7 +2,7 @@
   "name": "school-amazon-aws",
   "private": false,
   "description": "All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "author": "Jonas Bröms <jonasbroms@icloud.com> (http://jonasbroms.com/)",
   "license": "MIT",
   "homepage": "https://github.com/bromso/school-amazon-aws#readme",

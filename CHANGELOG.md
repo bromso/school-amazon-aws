@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/bromso/school-amazon-aws/compare/v1.7.0...v1.8.0) (2021-01-30)
+
+
+### Features
+
+* create .gitignore ([8f49cbe](https://github.com/bromso/school-amazon-aws/commit/8f49cbe724b729a982e5bb66d9ec0d5f1c815348))
+
 # [1.7.0](https://github.com/bromso/school-amazon-aws/compare/v1.6.0...v1.7.0) (2021-01-30)
 
 
