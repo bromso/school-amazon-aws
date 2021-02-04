@@ -40,11 +40,11 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Status
 
-[![current release](https://img.shields.io/github/release/bromso/school-frontend.svg)](https://img.shields.io/github/release/bromso/school-frontend)
+[![current release](https://img.shields.io/github/release/bromso/school-amazon-aws.svg)](https://img.shields.io/github/release/bromso/school-amazon-aws)
 
-[![license](https://img.shields.io/github/license/bromso/school-frontend.svg)](https://img.shields.io/github/license/bromso/school-frontend)
+[![license](https://img.shields.io/github/license/bromso/school-amazon-aws.svg)](https://img.shields.io/github/license/bromso/school-amazon-aws)
 
-[![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-frontend)](https://david-dm.org/bromso/school-frontend?type=peer)
+[![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-amazon-aws)](https://david-dm.org/bromso/school-amazon-aws?type=peer)
 
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
@@ -60,6 +60,10 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┃    └┄┄ 📁 workflows
 ┃        └┄┄ 📄 semantic-release.yml
 ┃
+┠── 📁 .vagrant
+┃    ├┄┄ 📁 machines
+┃    └┄┄ 📁 rgloader
+┃
 ┠── 📁 .vscode
 ┃   └┄┄ 📄 settings.json
 ┃
@@ -69,10 +73,33 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┠┄┄ 🐭 .editorconfig
 ┠┄┄ 📝 README.md
 ┠┄┄ 📝 CONTRIBUTING.md
+┠┄┄ ✔️ Vagrantfile
 ┠┄┄ 📦 package.json
-┖┄┄ 🧶 yarn.json
+┖┄┄ 🧶 yarn.lock
 
 ```
+
+## Dependencies
+
+Technology that is used in this repository.
+
+### Required
+
+| Avatar                                                                                                                                       | Name                                                    | Category         |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------- |
+| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>           | [Apple Macbook Pro](https://www.apple.com/macbook-pro/) | Hardware         |
+| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>        | [Apple Mac OSX](https://www.apple.com/macos/)           | Operating System |
+| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash.svg" alt="Bash logo" height="42" width="42" /></a> | [Bash](https://www.gnu.org/software/bash/)              | Shell            |
+| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                | [Homebrew](https://brew.sh/)                            | Package Manager  |
+| <a href="https://www.virtualbox.org/"><img src="docs/img/virtualbox.png" alt="Virtualbox" height="42" width="42" /></a>                      | [Virtualbox](https://www.virtualbox.org/)               | Virtualization   |
+| <a href="https://ubuntu.com/"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu logo" height="42" width="42" /></a>            | [Ubuntu](https://ubuntu.com/)                           | Operating System |
+
+### Optional
+
+| Avatar                                                                                                                                          | Name                                  | Category |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------- |
+| <a href="https://ohmyz.sh/"><img src="docs/img/oh-my-zsh.png" alt="Oh-my-zsh logo" height="42" width="42" /></a>                                | [Oh-my-zsh](https://ohmyz.sh/)        | Hardware |
+| <a href="https://www.vagrantup.com/"><img src="https://cdn.svgporn.com/logos/vagrant-icon.svg" alt="Vagrant logo" height="42" width="42" /></a> | [Vagrant](https://www.vagrantup.com/) | Hardware |
 
 ## Contributing
 
@@ -94,9 +121,11 @@ See the Releases section of our GitHub project for [CHANGELOG](https://github.co
 
 ## Creator
 
-| Avatar                                         | Name        | Email                                                                                                                                           | Website                                  | Instagram                                                                                                                                                      | Twitter                                                                                                                                        | Facebook                                                                                                                                              | LinkedIn                                                                                                                                                        | Github                                                                                                                                       |
-| ---------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Jonas Bröms Avatar](docs/img/jonasbroms.png) | Jonas Bröms | <a href="mailto:jonasbroms@icloud.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="eMail logo" width="48" height="48" /></a> | [jonasbroms.com](https://jonasbroms.com) | <a href="https://www.instagram.com/jonasbroms/"><img src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="Instagram logo" width="48" height="48" /></a> | <a href="https://twitter.com/jonasbroms"><img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo" width="48" height="48" /></a> | <a href="https://www.facebook.com/jonasbroms"><img src="https://cdn.svgporn.com/logos/facebook.svg" alt="Facebook logo" width="48" height="48" /></a> | <a href="https://www.linkedin.com/in/jonas-broms/"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo" width="48" height="48" /></a> | <a href="https://github.com/bromso"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="48" height="48" /></a> |
+### <img src="docs/img/jonasbroms.png" alt="Jonas Bröms Avatar" width="18" height="18" /> Jonas Bröms
+
+| Email                                                                                                                                           | Website                                  | Instagram                                                                                                                                                      | Twitter                                                                                                                                        | Facebook                                                                                                                                              | LinkedIn                                                                                                                                                        | Github                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="mailto:jonasbroms@icloud.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="eMail logo" width="48" height="48" /></a> | [jonasbroms.com](https://jonasbroms.com) | <a href="https://www.instagram.com/jonasbroms/"><img src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="Instagram logo" width="48" height="48" /></a> | <a href="https://twitter.com/jonasbroms"><img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo" width="48" height="48" /></a> | <a href="https://www.facebook.com/jonasbroms"><img src="https://cdn.svgporn.com/logos/facebook.svg" alt="Facebook logo" width="48" height="48" /></a> | <a href="https://www.linkedin.com/in/jonas-broms/"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo" width="48" height="48" /></a> | <a href="https://github.com/bromso"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="48" height="48" /></a> |
 
 ## Copyright and license
 
