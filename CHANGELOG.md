@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/bromso/school-amazon-aws/compare/v1.8.0...v1.9.0) (2021-02-04)
+
+
+### Features
+
+* add vagrant ([252cf0f](https://github.com/bromso/school-amazon-aws/commit/252cf0f95f50c9cd603ff1b01a4a0b9ee64f1b53))
+
 # [1.8.0](https://github.com/bromso/school-amazon-aws/compare/v1.7.0...v1.8.0) (2021-01-30)
 
 
