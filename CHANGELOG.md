@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/bromso/school-amazon-aws/compare/v1.12.0...v1.13.0) (2021-02-08)
+
+
+### Features
+
+* create a script that does all of the above and preferably as generally as possible ([a25f920](https://github.com/bromso/school-amazon-aws/commit/a25f920e1519fdda47aee093654f9e5419d2bbca))
+
 # [1.12.0](https://github.com/bromso/school-amazon-aws/compare/v1.11.0...v1.12.0) (2021-02-08)
 
 
