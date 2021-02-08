@@ -1,4 +1,4 @@
-# SSH
+# SSH (Secure Shell)
 
 SSH & Remote Administration
 
