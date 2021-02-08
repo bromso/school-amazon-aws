@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/bromso/school-amazon-aws/compare/v1.11.0...v1.12.0) (2021-02-08)
+
+
+### Features
+
+* create different bash script examples ([118e5ac](https://github.com/bromso/school-amazon-aws/commit/118e5ac4194b2b50b727d244203f19d8484c5faa))
+
 # [1.11.0](https://github.com/bromso/school-amazon-aws/compare/v1.10.0...v1.11.0) (2021-02-08)
 
 
