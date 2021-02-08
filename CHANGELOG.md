@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/bromso/school-amazon-aws/compare/v1.10.0...v1.11.0) (2021-02-08)
+
+
+### Features
+
+* add prettier ([e42bab0](https://github.com/bromso/school-amazon-aws/commit/e42bab06fa97500e3ae91397655b82036fe8b285))
+
 # [1.10.0](https://github.com/bromso/school-amazon-aws/compare/v1.9.0...v1.10.0) (2021-02-08)
 
 
