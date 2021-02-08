@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/bromso/school-amazon-aws/compare/v1.9.0...v1.10.0) (2021-02-08)
+
+
+### Features
+
+* add eslint ([4d6b295](https://github.com/bromso/school-amazon-aws/commit/4d6b295807043d0ef3ac748bd3a36581736d87f5))
+
 # [1.9.0](https://github.com/bromso/school-amazon-aws/compare/v1.8.0...v1.9.0) (2021-02-04)
 
 
