@@ -64,6 +64,15 @@
    | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
    | <a href="https://en.wikipedia.org/wiki/Top_(software)"><center>![Top](../img/top.png)</center></a> | <a href="https://en.wikipedia.org/wiki/Htop"><center>![Top](../img/htop.png)</center></a> | <a href="https://en.wikipedia.org/wiki/Tail_(Unix)"><center>![Tail](../img/tail.png)</center></a> |
 
+3. The server that you are logging into requires a SSH server. Please check if you have it installed by typing `openssh-server -v`.
+   If you get an error, please install & start it by typing: `sudo apt install openssh-server && sudo systemctl enable ssh && sudo systemctl start ssh`
+
+   - You need to create a network in VirtualBox > Preferences > Network > Adds new NAT network. See picture below:
+     ![Linux 2 create network](../img/linux2-create-network.png)
+
+   - Then you need to create assign the network to the virtual machines in question, by pressing the Network section on the specific machine. See picture below:
+     ![Linux 2 create network](../img/linux2-assign-network.png)
+
 ---
 
 Sources:

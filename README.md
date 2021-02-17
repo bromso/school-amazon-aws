@@ -78,28 +78,51 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Dependencies
 
+### For Assignments
+
 Technology that is used in this repository.
 
-### Required
+#### Required
 
 All of these technologies has been used when created this repository, I highly recommend that you use them in order for you to not get any errors.
 
-| Avatar                                                                                                                                       | Name                                                    | Category              |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------- |
-| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>           | [Apple Macbook Pro](https://www.apple.com/macbook-pro/) | Hardware              |
-| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>        | [Apple Mac OSX](https://www.apple.com/macos/)           | Operating System      |
-| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash.svg" alt="Bash logo" height="42" width="42" /></a> | [Bash](https://www.gnu.org/software/bash/)              | Shell                 |
-| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                | [Homebrew](https://brew.sh/)                            | Package Manager       |
-| <a href="https://www.virtualbox.org/"><img src="docs/img/tech/virtualbox.png" alt="Virtualbox" height="42" width="42" /></a>                 | [Virtualbox](https://www.virtualbox.org/)               | Virtualization        |
-| <a href="https://ubuntu.com/"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu logo" height="42" width="42" /></a>            | [Ubuntu](https://ubuntu.com/)                           | Operating System      |
-| <a href="https://developer.apple.com/xcode/"><img src="docs/img/tech/xcode.png" alt="Xcode logo" height="42" width="42" /></a>               | [Xcode](https://developer.apple.com/xcode/)             | Developer Environment |
+| Avatar                                                                                                                                            | Name                                                    | Category                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------- |
+| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>                | [Apple Macbook Pro](https://www.apple.com/macbook-pro/) | Hardware                    |
+| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>             | [Apple Mac OSX](https://www.apple.com/macos/)           | Operating System            |
+| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="Bash logo" height="42" width="42" /></a> | [Bash](https://www.gnu.org/software/bash/)              | Shell                       |
+| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                     | [Homebrew](https://brew.sh/)                            | Package Manager for Mac OSX |
+| <a href="https://www.virtualbox.org/"><img src="docs/img/tech/virtualbox.png" alt="Virtualbox" height="42" width="42" /></a>                      | [Virtualbox](https://www.virtualbox.org/)               | Virtualization              |
+| <a href="https://ubuntu.com/"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu logo" height="42" width="42" /></a>                 | [Ubuntu](https://ubuntu.com/)                           | Operating System            |
+| <a href="https://developer.apple.com/xcode/"><img src="docs/img/tech/xcode.png" alt="Xcode logo" height="42" width="42" /></a>                    | [Xcode](https://developer.apple.com/xcode/)             | Developer Environment       |
 
-### Optional
+#### Optional
 
 | Avatar                                                                                                                | Name                           | Category          |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------- |
 | <a href="https://ohmyz.sh/"><img src="docs/img/tech/oh-my-zsh.png" alt="Oh-my-zsh logo" height="42" width="42" /></a> | [Oh-my-zsh](https://ohmyz.sh/) | Shell             |
 | <a href="https://iterm2.com/"><img src="docs/img/tech/iterm2.png" alt="iTerm 2" height="42" width="42" /></a>         | [iTerm 2](https://iterm2.com/) | Terminal Emulator |
+
+### For NodeJS Application
+
+All of these technologies has been used when created this repository, I highly recommend that you use them in order for you to not get any errors.
+
+| Avatar                                                                                                                                                      | Name                                                     | Category                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------- |
+| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>                          | [Apple Macbook Pro](https://www.apple.com/macbook-pro/)  | Hardware                    |
+| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>                       | [Apple Mac OSX](https://www.apple.com/macos/)            | Operating System            |
+| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="Bash logo" height="42" width="42" /></a>           | [Bash](https://www.gnu.org/software/bash/)               | Shell                       |
+| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                               | [Homebrew](https://brew.sh/)                             | Package Manager for Mac OSX |
+| <a href="https://developer.apple.com/xcode/"><img src="docs/img/tech/xcode.png" alt="Xcode logo" height="42" width="42" /></a>                              | [Xcode](https://developer.apple.com/xcode/)              | Developer Environment       |
+| <a href="https://nodejs.org/"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="NodeJS logo" height="42" width="42" /></a>                      | [NodeJS](https://nodejs.org/)                            | JavaScript Runtime Engine   |
+| <a href="https://yarnpkg.com/"><img src="https://cdn.svgporn.com/logos/yarn.svg" alt="Yarn logo" height="42" width="42" /></a>                              | [Yarn](https://yarnpkg.com/)                             | Package Manager for NodeJS  |
+| <a href="https://eslint.org/"><img src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint logo" height="42" width="42" /></a>                           | [ESLint](https://eslint.org/)                            | Coding Convention           |
+| <a href="https://prettier.io/"><img src="https://cdn.svgporn.com/logos/prettier.svg" alt="Prettier logo" height="42" width="42" /></a>                      | [Prettier](https://prettier.io/)                         | Coding Convention           |
+| <a href="https://editorconfig.org/"><img src="https://cdn.svgporn.com/logos/editorconfig.svg" alt="Editorconfig logo" height="42" width="42" /></a>         | [Editorconfig](https://editorconfig.org/)                | Coding Convention           |
+| <a href="https://git-scm.com/"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git logo" height="42" width="42" /></a>                           | [Git](https://git-scm.com/)                              | Git                         |
+| <a href="https://semantic-release.gitbook.io/"><img src="docs/img/tech/semantic-release-logo.svg" alt="Semantic Release logo" height="42" width="42" /></a> | [Semantic Release](https://semantic-release.gitbook.io/) | Versioning Tool             |
+| <a href="https://github.com/commitizen"><img src="docs/img/tech/commitizen.svg" alt="Commitizen logo" height="42" width="42" /></a>                         | [Commitizen](https://github.com/commitizen)              | Git Commit Tool             |
+| <a href="https://commitlint.js.org/"><img src="docs/img/tech/commitlint.svg" alt="Commitlint logo" height="42" width="42" /></a>                            | [Commitlint](https://commitlint.js.org/)                 | Git Linter                  |
 
 ## Contributing
 
