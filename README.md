@@ -18,9 +18,13 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## External Documents
 
-- [Contributing](https://github.com/bromso/school-amazon-aws/blob/main/CONTRIBUTING.md)
-- [Changelog](https://github.com/bromso/school-amazon-aws/blob/main/CHANGELOG.md)
 - [Wiki](https://github.com/bromso/school-amazon-aws/wiki)
+- [Contributing](https://github.com/bromso/school-amazon-aws/blob/main/CONTRIBUTING.md)
+- [Cheat Sheets](https://github.com/bromso/school-amazon-aws/wiki)
+
+## Contributing & Changelog
+
+- [Changelog](https://github.com/bromso/school-amazon-aws/blob/main/CHANGELOG.md)
 
 ## Projects
 
@@ -40,13 +44,7 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Status
 
-[![current release](https://img.shields.io/github/release/bromso/school-amazon-aws.svg)](https://img.shields.io/github/release/bromso/school-amazon-aws)
-
-[![license](https://img.shields.io/github/license/bromso/school-amazon-aws.svg)](https://img.shields.io/github/license/bromso/school-amazon-aws)
-
-[![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-amazon-aws)](https://david-dm.org/bromso/school-amazon-aws?type=peer)
-
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![current release](https://img.shields.io/github/release/bromso/school-amazon-aws.svg)](https://img.shields.io/github/release/bromso/school-amazon-aws) [![license](https://img.shields.io/github/license/bromso/school-amazon-aws.svg)](https://img.shields.io/github/license/bromso/school-amazon-aws) [![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-amazon-aws)](https://david-dm.org/bromso/school-amazon-aws?type=peer) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## What's included
 
@@ -57,12 +55,12 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┃
 ┠── 📁 .github
 ┃    ├┄┄ 📁 ISSUE_TEMPLATE
+┃    │   ├┄┄ 📄 config.yml
+┃    │   ├┄┄ 📄 BUG_REPORT.md
+┃    │   ├┄┄ 📄 FEATURE_REQUEST.md
+┃    │   └┄┄ 📄 QUESTION.md
 ┃    └┄┄ 📁 workflows
 ┃        └┄┄ 📄 semantic-release.yml
-┃
-┠── 📁 .vagrant
-┃    ├┄┄ 📁 machines
-┃    └┄┄ 📁 rgloader
 ┃
 ┠── 📁 .vscode
 ┃   └┄┄ 📄 settings.json
@@ -73,7 +71,6 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┠┄┄ 🐭 .editorconfig
 ┠┄┄ 📝 README.md
 ┠┄┄ 📝 CONTRIBUTING.md
-┠┄┄ ✔️ Vagrantfile
 ┠┄┄ 📦 package.json
 ┖┄┄ 🧶 yarn.lock
 
@@ -85,21 +82,24 @@ Technology that is used in this repository.
 
 ### Required
 
-| Avatar                                                                                                                                       | Name                                                    | Category         |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------- |
-| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>           | [Apple Macbook Pro](https://www.apple.com/macbook-pro/) | Hardware         |
-| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>        | [Apple Mac OSX](https://www.apple.com/macos/)           | Operating System |
-| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash.svg" alt="Bash logo" height="42" width="42" /></a> | [Bash](https://www.gnu.org/software/bash/)              | Shell            |
-| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                | [Homebrew](https://brew.sh/)                            | Package Manager  |
-| <a href="https://www.virtualbox.org/"><img src="docs/img/virtualbox.png" alt="Virtualbox" height="42" width="42" /></a>                      | [Virtualbox](https://www.virtualbox.org/)               | Virtualization   |
-| <a href="https://ubuntu.com/"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu logo" height="42" width="42" /></a>            | [Ubuntu](https://ubuntu.com/)                           | Operating System |
+All of these technologies has been used when created this repository, I highly recommend that you use them in order for you to not get any errors.
+
+| Avatar                                                                                                                                       | Name                                                    | Category              |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------- |
+| <a href="https://www.apple.com/"><img src="https://cdn.svgporn.com/logos/apple.svg" alt="Apple logo" height="42" width="42" /></a>           | [Apple Macbook Pro](https://www.apple.com/macbook-pro/) | Hardware              |
+| <a href="https://www.apple.com/macos/"><img src="https://cdn.svgporn.com/logos/macOS.svg" alt="mac OSX" height="42" width="42" /></a>        | [Apple Mac OSX](https://www.apple.com/macos/)           | Operating System      |
+| <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.svgporn.com/logos/bash.svg" alt="Bash logo" height="42" width="42" /></a> | [Bash](https://www.gnu.org/software/bash/)              | Shell                 |
+| <a href="https://brew.sh/"><img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="Homebrew" height="42" width="42" /></a>                | [Homebrew](https://brew.sh/)                            | Package Manager       |
+| <a href="https://www.virtualbox.org/"><img src="docs/img/tech/virtualbox.png" alt="Virtualbox" height="42" width="42" /></a>                 | [Virtualbox](https://www.virtualbox.org/)               | Virtualization        |
+| <a href="https://ubuntu.com/"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="Ubuntu logo" height="42" width="42" /></a>            | [Ubuntu](https://ubuntu.com/)                           | Operating System      |
+| <a href="https://developer.apple.com/xcode/"><img src="docs/img/tech/xcode.png" alt="Xcode logo" height="42" width="42" /></a>               | [Xcode](https://developer.apple.com/xcode/)             | Developer Environment |
 
 ### Optional
 
-| Avatar                                                                                                                                          | Name                                  | Category |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------- |
-| <a href="https://ohmyz.sh/"><img src="docs/img/oh-my-zsh.png" alt="Oh-my-zsh logo" height="42" width="42" /></a>                                | [Oh-my-zsh](https://ohmyz.sh/)        | Hardware |
-| <a href="https://www.vagrantup.com/"><img src="https://cdn.svgporn.com/logos/vagrant-icon.svg" alt="Vagrant logo" height="42" width="42" /></a> | [Vagrant](https://www.vagrantup.com/) | Hardware |
+| Avatar                                                                                                                | Name                           | Category          |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------- |
+| <a href="https://ohmyz.sh/"><img src="docs/img/tech/oh-my-zsh.png" alt="Oh-my-zsh logo" height="42" width="42" /></a> | [Oh-my-zsh](https://ohmyz.sh/) | Shell             |
+| <a href="https://iterm2.com/"><img src="docs/img/tech/iterm2.png" alt="iTerm 2" height="42" width="42" /></a>         | [iTerm 2](https://iterm2.com/) | Terminal Emulator |
 
 ## Contributing
 
