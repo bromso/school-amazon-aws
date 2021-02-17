@@ -22,8 +22,10 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 - [Contributing](https://github.com/bromso/school-amazon-aws/blob/main/CONTRIBUTING.md)
 - [Cheat Sheets](https://github.com/bromso/school-amazon-aws/wiki)
 
-## Contributing & Changelog
+## Commit
 
+- [Contributing](https://github.com/bromso/school-amazon-aws/wiki/contributing)
+- [Git](https://github.com/bromso/school-amazon-aws/wiki/Git)
 - [Changelog](https://github.com/bromso/school-amazon-aws/blob/master/CHANGELOG.md)
 
 ## Projects
