@@ -1,3 +1,11 @@
+## [1.13.1](https://github.com/bromso/school-amazon-aws/compare/v1.13.0...v1.13.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* delete vagrant ([88c4d00](https://github.com/bromso/school-amazon-aws/commit/88c4d00f474c22a1efecedd284de8b3c745fb3d6))
+* delete vagrant file ([e7ba9b0](https://github.com/bromso/school-amazon-aws/commit/e7ba9b0fac0e753111045d985a30dfc816ba4a09))
+
 # [1.13.0](https://github.com/bromso/school-amazon-aws/compare/v1.12.0...v1.13.0) (2021-02-08)
 
 
