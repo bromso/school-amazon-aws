@@ -50,11 +50,7 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Status
 
-[![current release](https://img.shields.io/github/release/bromso/school-amazon-aws.svg)](https://img.shields.io/github/release/bromso/school-amazon-aws) [![license](https://img.shields.io/github/license/bromso/school-amazon-aws.svg)](https://img.shields.io/github/license/bromso/school-amazon-aws) [![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-amazon-aws)](https://david-dm.org/bromso/school-amazon-aws?type=peer) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
-
-[![How to contribute](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bromso/school-amazon-aws/wiki/contributing)
-
-[![Follow @jonasbroms](https://img.shields.io/twitter/follow/jonasbroms.svg?label=Follow%20@jonasbroms)](https://twitter.com/intent/follow?screen_name=jonasbroms)
+[![current release](https://img.shields.io/github/release/bromso/school-amazon-aws.svg)](https://img.shields.io/github/release/bromso/school-amazon-aws) [![license](https://img.shields.io/github/license/bromso/school-amazon-aws.svg)](https://img.shields.io/github/license/bromso/school-amazon-aws) [![peerDependencies Status](https://img.shields.io/david/peer/bromso/school-amazon-aws)](https://david-dm.org/bromso/school-amazon-aws?type=peer) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![How to contribute](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bromso/school-amazon-aws/wiki/contributing) [![Follow @jonasbroms](https://img.shields.io/twitter/follow/jonasbroms.svg?label=Follow%20@jonasbroms)](https://twitter.com/intent/follow?screen_name=jonasbroms)
 
 ## What's included
 
@@ -78,14 +74,13 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┠── 📁 docs
 ┃   └┄┄ 📁 img
 ┃
-┠┄┄ 🐭 .commitlintrc.js
-┠┄┄ 🐭 .cz.json
+┠┄┄ 💻 .commitlintrc.js
+┠┄┄ 💻 .cz.json
 ┠┄┄ 🐭 .editorconfig
-┠┄┄ 🐭 .eslintrc.json
-┠┄┄ 🐭 .prettierrs.json
-┠┄┄ 🐭 .releaserc.json
+┠┄┄ 🔩 .eslintrc.json
+┠┄┄ 🎨 .prettierrs.json
+┠┄┄ ☊ .releaserc.json
 ┠┄┄ 📝 README.md
-┠┄┄ 📝 CONTRIBUTING.md
 ┠┄┄ 📦 package.json
 ┖┄┄ 🧶 yarn.lock
 
