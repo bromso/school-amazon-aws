@@ -1,0 +1,6 @@
+First name: Jonas
+Last name: Broms
+Favourite color: Blue
+Favourite animal: Dog
+Favourite color: Red
+Favourite animal: Cat
