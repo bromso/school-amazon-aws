@@ -4,7 +4,7 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Table of Contents
 
-- [External Documents](#external-documents)
+- [Wiki](#wiki)
 - [Milestones](#milestones)
 - [Projects](#projects)
 - [Status](#status)
@@ -16,16 +16,30 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 - [Creator](#creator)
 - [Copyright and license](#copyright-and-license)
 
-## External Documents
+## [Wiki](https://github.com/bromso/school-amazon-aws/wiki)
 
-- [Wiki](https://github.com/bromso/school-amazon-aws/wiki)
-- [Contributing](https://github.com/bromso/school-amazon-aws/blob/main/CONTRIBUTING.md)
-- [Cheat Sheets](https://github.com/bromso/school-amazon-aws/wiki)
+- [Getting Started](https://github.com/bromso/school-amazon-aws/wiki/getting-started)
+  - [What is it](https://github.com/bromso/school-amazon-aws/wiki/What-is-it)
+  - [Installation](https://github.com/bromso/school-amazon-aws/wiki/Installation)
+  - [What's included](https://github.com/bromso/school-amazon-aws/wiki/Whats-included)
+  - [How it Works](https://github.com/bromso/school-amazon-aws/wiki/How-it-Works)
+- [Architecture](https://github.com/bromso/school-amazon-aws/wiki/architecture)
+  - [Git](https://github.com/bromso/school-amazon-aws/wiki/Git)
+  - [Contributing](https://github.com/bromso/school-amazon-aws/wiki/contributing)
+  - [Design Pattern](https://github.com/bromso/school-amazon-aws/wiki/design-pattern)
+- [Cheat sheets](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheets)
+  - [Linux](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-linux)
+  - [Bash Commands](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-bash-commands)
+  - [SSH](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-ssh)
+  - [Cloud Architecture](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-cloud-architecture)
+  - [AWS](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-aws)
+  - [EC2](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-ec2)
+  - [Autoscaling Group](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-autoscaling-group)
+  - [Load balancer](https://github.com/bromso/school-amazon-aws/wiki/cheat-sheet-load-balancer)
+- [FAQ](https://github.com/bromso/school-amazon-aws/wiki/FAQ)
 
-## Commit
+## Changelog
 
-- [Contributing](https://github.com/bromso/school-amazon-aws/wiki/contributing)
-- [Git](https://github.com/bromso/school-amazon-aws/wiki/Git)
 - [Changelog](https://github.com/bromso/school-amazon-aws/blob/master/CHANGELOG.md)
 
 ## Projects
@@ -115,9 +129,9 @@ All of these technologies has been used when created this repository, I highly r
 | <a href="https://ohmyz.sh/"><img src="docs/img/tech/oh-my-zsh.png" alt="Oh-my-zsh logo" height="42" width="42" /></a> | [Oh-my-zsh](https://ohmyz.sh/) | Shell             |
 | <a href="https://iterm2.com/"><img src="docs/img/tech/iterm2.png" alt="iTerm 2" height="42" width="42" /></a>         | [iTerm 2](https://iterm2.com/) | Terminal Emulator |
 
-### For NodeJS Application
+### For Application
 
-All of these technologies has been used when created this repository, I highly recommend that you use them in order for you to not get any errors.
+All of these technologies, within the NodeJS ecosystem, has been used when created this repository, I highly recommend that you use them in order for you to not get any errors.
 
 | Avatar                                                                                                                                                      | Name                                                     | Category                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------- |
