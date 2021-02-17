@@ -24,7 +24,7 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 
 ## Contributing & Changelog
 
-- [Changelog](https://github.com/bromso/school-amazon-aws/blob/main/CHANGELOG.md)
+- [Changelog](https://github.com/bromso/school-amazon-aws/blob/master/CHANGELOG.md)
 
 ## Projects
 
@@ -38,9 +38,15 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 - [Create Git Architecture](https://github.com/bromso/school-amazon-aws/milestone/3)
 - [Set Coding Conventions](https://github.com/bromso/school-amazon-aws/milestone/4)
 - [Create Documentation Architecture](https://github.com/bromso/school-amazon-aws/milestone/2)
-- [Linux Assignment #1](https://github.com/bromso/school-amazon-aws/milestone/1)
-- [Linux Assignment #2](https://github.com/bromso/school-amazon-aws/milestone/5)
-- [Linux Assignment #3](https://github.com/bromso/school-amazon-aws/milestone/6)
+
+## Assignments
+
+| Course | Library                             | Milestone                                                                |
+| ------ | ----------------------------------- | ------------------------------------------------------------------------ |
+| Linux  | [Assignment #0](assignments/linux0) | [Assignment #0](https://github.com/bromso/school-amazon-aws/milestone/9) |
+| Linux  | [Assignment #1](assignments/linux1) | [Assignment #1](https://github.com/bromso/school-amazon-aws/milestone/1) |
+| Linux  | [Assignment #2](assignments/linux2) | [Assignment #2](https://github.com/bromso/school-amazon-aws/milestone/5) |
+| Linux  | [Assignment #3](assignments/linux3) | [Assignment #3](https://github.com/bromso/school-amazon-aws/milestone/6) |
 
 ## Status
 
@@ -68,7 +74,12 @@ All reports, bash scripts and more for the class Amazon AWS at Mölndal Campus
 ┠── 📁 docs
 ┃   └┄┄ 📁 img
 ┃
+┠┄┄ 🐭 .commitlintrc.js
+┠┄┄ 🐭 .cz.json
 ┠┄┄ 🐭 .editorconfig
+┠┄┄ 🐭 .eslintrc.json
+┠┄┄ 🐭 .prettierrs.json
+┠┄┄ 🐭 .releaserc.json
 ┠┄┄ 📝 README.md
 ┠┄┄ 📝 CONTRIBUTING.md
 ┠┄┄ 📦 package.json
@@ -126,7 +137,7 @@ All of these technologies has been used when created this repository, I highly r
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/bromso/school-amazon-aws/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/bromso/school-amazon-aws/wiki/contributing). Included are directions for opening issues, coding standards, and notes on development.
 
 ## Bugs, Feature requests, Questions & Need help
 
